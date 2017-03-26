@@ -1,0 +1,19 @@
+@import 'variables';
+
+html,
+body {
+  height: 100vh;
+  width: 100vw;
+  background: #f1f6f9 !important;
+  font-family: Lato, Verdana, sans-serif;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  font-size: 40px;
+  color: $text;
+}
