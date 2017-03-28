@@ -15,7 +15,8 @@
     "lintfix": "yarn run lintfix-js && yarn run lintfix-css",
     "lintfix-js": "eslint --ext .js ./src --fix",
     "lintfix-css": "stylefmt --config ./.stylelintrc --recursive ./src/**/*.scss",
-    "dll": "rimraf dll && cross-env NODE_ENV=production webpack --config=webpack.config.dll.js --env.prod=false"
+    "dll": "rimraf dll && cross-env NODE_ENV=production webpack --config=webpack.config.dll.js --env.prod=false",
+    "dll-prod": "rimraf dll && cross-env NODE_ENV=production webpack --config=webpack.config.dll.js --env.prod=true"
   },
   "dependencies": {
     "autoprefixer": "^6.7.7",
