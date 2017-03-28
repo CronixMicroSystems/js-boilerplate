@@ -1,1 +1,1 @@
-document.querySelector('#root').innerHTML = 'JS-skeleton!'
+document.querySelector('#root').innerHTML = 'JS-boilerplate!'

@@ -1,4 +1,4 @@
-# js-boilerplate
+# JS-boilerplate
 
 # DEVELOPMENT
 
