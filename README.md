@@ -1,5 +1,13 @@
 # JS-boilerplate
 
+<a href="https://travis-ci.org/CronixMicroSystems/js-boilerplate">
+    <img src="https://travis-ci.org/CronixMicroSystems/js-boilerplate.svg?branch=master" alt="Build Status" />
+</a>
+
+<div>
+  <sub>Created by <a href="https://github.com/Kokatsuna">Vladimir Ivanov</a> and maintained with ❤️ by an amazing <a href="https://github.com/CronixMicroSystems">Cronix team</a>.</sub>
+</div>
+
 # DEVELOPMENT
 
 1. yarn
@@ -19,3 +27,7 @@
 * yarn run lintfix-js
 * yarn run lintfix-css
 * yarn run lintfix (yarn run lintfix-js and yarn run lintfix-css)
+
+# License
+
+This project is licensed under the MIT license, Copyright (c) 2017 Cronix Micro Systems. For more information see LICENSE.md.
